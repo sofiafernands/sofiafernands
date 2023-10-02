@@ -27,8 +27,8 @@
 <a href="https://dev.to/sofiafernands" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sofiafernands" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sofia fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofia fernandes" height="30" width="40" /></a>
 <a href="https://fb.com/sofia fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sofia fernandes" height="30" width="40" /></a>
-<a href="https://instagram.com/sofiafernands" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofiafernands" height="30" width="40" /></a>
-<a href="https://discord.gg/.sofiafernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".sofiafernandes" height="30" width="40" /></a>
+<a href="https://instagram.com/sofiafernandsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofiafernands" height="30" width="40" /></a>
+<a href="https://discord.gg/.sofiafernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".sofiafernandesp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
