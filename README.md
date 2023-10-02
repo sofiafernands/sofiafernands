@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind, Bootstrap**
 
-- 📫 How to reach me **fernandesofia@gmail.com**
+- 📫 How to reach me **fernandesofia1802@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/2agb3lbgf6](https://flowcv.com/resume/2agb3lbgf6)
 
