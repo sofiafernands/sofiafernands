@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **fernandesofia1802@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/2agb3lbgf6](https://flowcv.com/resume/2agb3lbgf6)
-
 - ⚡ Fun fact **person with high level of solution and patience**
 
 
