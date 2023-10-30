@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Python, Node.js**
 
-- 🤝 I’m looking for help with **find work and experience**
-
 - 👨‍💻 All of my projects are available at [https://github.com/sofiafernands](https://github.com/sofiafernands)
 
 - 📝 I regularly write articles on https://www.linkedin.com/in/sofia-fernandes-pena/
